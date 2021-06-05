@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-zip-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge two array to an object.",
   "homepage": "https://github.com/afeiship/next-zip-object",
   "author": {
@@ -40,5 +40,11 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "zip",
+    "object",
+    "merge"
+  ]
 }
